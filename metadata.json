@@ -1,0 +1,8 @@
+{
+  "name": "Air Quality Dashboard",
+  "description": "An air quality dashboard displaying live AQI, forecasts, trends, maps, and alerts using the OpenWeatherMap API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
